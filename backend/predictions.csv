@@ -1,0 +1,4 @@
+Bedrooms,Bathrooms,LotSize,SchoolRating,CrimeRateEncoded,PredictedPrice
+3,2,0.25,8,0,500000.00000000006
+4,3,0.3,9,1,650000.0
+2,1,0.2,7,2,400000.00000000006
